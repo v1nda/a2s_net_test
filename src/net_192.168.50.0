@@ -1,0 +1,6 @@
+AlliedTelesis_AT-AR4050S:192.168.50.1:https
+Cisco_SG300-10:192.168.50.2:https
+HP_ProCurve:192.168.50.3:http
+DLink:192.168.50.4:http
+DLink_DES-2108:192.168.50.5:http
+-- empty string --
